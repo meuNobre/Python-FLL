@@ -1,1 +1,2 @@
 Esse projeto é uma demonstração da linguaguem Python aplicada na programação do Spike Prime.
+- Tendo dois conteúdos(arquivos), sendo um deles llsp3 e o outro sendo um arquivo py. O arquivo llsp3 é o projeto da programação que deve ser aberto no aplicativo do spike prime, enquanto o arquivo py salva a programação escrita para amostra sem precisar da abertura do projeto no Spike.
